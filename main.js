@@ -1,3 +1,3 @@
-eeeeee
-eeeeeeee
-eee
+e+++
+ddd
+encodeURIComponent
